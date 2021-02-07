@@ -1,2 +1,2 @@
 # Home_Automation_Arduino
- Implémentation d’un système domotique à base d’Arduino/Android
+Implementation of a home automation system based on Arduino / Android.
